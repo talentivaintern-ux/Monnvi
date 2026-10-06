@@ -1,0 +1,6 @@
+{
+  "name": "Monvi Art | Art, Beauty & Living",
+  "description": "Premium Indian lifestyle brand bringing together authentic Madhubani art, handcrafted metal decor, imitation jewellery, and beauty essentials for everyday luxury.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
